@@ -1,0 +1,8 @@
+body {
+	background-color: #f5f7fa;
+}
+
+.card.panels-card .hour {
+  font-size: 0.8rem;
+  margin-top: 0.3rem;
+}
